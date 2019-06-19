@@ -1,0 +1,2 @@
+# scp -r ./*.py binli@192.168.31.127:/home/binli/repos/df2019/sohu/2019_Core_Entity_Emotion/
+scp -r binli@192.168.31.127:/home/binli/repos/df2019/datafountain/2019DF_Intelligent_Scoring_of_Credits/$1 ./

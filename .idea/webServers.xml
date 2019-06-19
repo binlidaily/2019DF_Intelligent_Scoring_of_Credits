@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="54bd48c2-bb52-4941-a19d-436a1551e7b0" name="2019DF_Intelligent_Scoring_of_Credits" url="http://10.2.32.142">
+        <fileTransfer host="10.2.32.142" port="22" rootFolder="/home/binli/repos/competitions/2019DF_Intelligent_Scoring_of_Credits" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
